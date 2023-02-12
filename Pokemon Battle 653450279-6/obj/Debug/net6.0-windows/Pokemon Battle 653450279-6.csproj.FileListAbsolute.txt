@@ -1,0 +1,18 @@
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\bin\Debug\net6.0-windows\Pokemon Battle 653450279-6.exe
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\bin\Debug\net6.0-windows\Pokemon Battle 653450279-6.deps.json
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\bin\Debug\net6.0-windows\Pokemon Battle 653450279-6.runtimeconfig.json
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\bin\Debug\net6.0-windows\Pokemon Battle 653450279-6.dll
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\bin\Debug\net6.0-windows\Pokemon Battle 653450279-6.pdb
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.csproj.AssemblyReference.cache
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon_Battle_653450279_6.Form1.resources
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon_Battle_653450279_6.Properties.Resources.resources
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.csproj.GenerateResource.cache
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.AssemblyInfoInputs.cache
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.AssemblyInfo.cs
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.csproj.CoreCompileInputs.cache
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.dll
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\refint\Pokemon Battle 653450279-6.dll
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.pdb
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\Pokemon Battle 653450279-6.genruntimeconfig.cache
+C:\Users\pchaw\source\repos\Pokemon Battle 653450279-6\Pokemon Battle 653450279-6\obj\Debug\net6.0-windows\ref\Pokemon Battle 653450279-6.dll
